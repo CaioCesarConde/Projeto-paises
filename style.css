@@ -1,3 +1,7 @@
+:root {
+    font-family: "Open Sans", serif;
+}
+
 
 #page
 {
@@ -7,3 +11,35 @@ margin: 88px auto 137px auto;
 
     }
 
+h1 {
+    font-size: 36px bold;
+}
+h2 {
+    font-size: 32px bold;
+}
+
+h4 {
+    color: #E1624F;
+}
+
+.historia {
+color: #0C51A7;
+}
+.Busan {
+    font-style: italic;
+color: #333333;
+}
+Text {
+    color: #333333;
+}
+
+.Casais {
+    color: #591B98;
+}
+.F {
+    color: #E5245E;
+}
+
+.O {
+    color: #E95E10;
+}
