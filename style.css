@@ -28,6 +28,7 @@ color: #0C51A7;
 .Busan {
     font-style: italic;
 color: #333333;
+text-align: center;
 }
 Text {
     color: #333333;
@@ -42,4 +43,15 @@ Text {
 
 .O {
     color: #E95E10;
+}
+
+.TextF{
+    color: #333333;
+    text-align: center;
+}
+footer {
+color: #333333;
+text-align: center;
+padding-bottom: 48px;
+
 }
